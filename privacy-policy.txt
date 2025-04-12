@@ -1,0 +1,93 @@
+1. Information We Collect
+We may collect the following categories of data:
+
+- Personal Information (if you provide):
+Name, email address
+
+Profile photo
+
+- Photos and Media:
+Images shared by users to showcase cleanliness efforts
+
+- Location Information:
+Geo-tagging (to attach location to your cleanliness activities)
+
+- Device Information:
+Type, OS version, and performance metrics
+
+2. Use of Your Information
+We use the data to:
+
+Display posts publicly and promote awareness
+
+Improve the app, personalize features
+
+Facilitate social media sharing
+
+Contact users regarding service updates (only if opted-in)
+
+3. Sharing of Information
+We do not sell or rent your personal data.
+
+We may share:
+
+Public content (cleaning posts) within the app or on social media
+
+Data with analytics tools (non-personal, anonymized)
+
+Data when legally required (e.g., court orders)
+
+4. Third-Party Services
+We may use third-party tools like:
+
+Google Analytics/Firebase (to improve app performance)
+
+Cloud hosting services for storing media
+
+These providers may have access to limited information strictly to perform tasks on our behalf under confidentiality agreements.
+
+5. Data Retention
+We retain data only as long as necessary to:
+
+Provide you with the app’s services
+
+Comply with legal obligations
+
+Users can request deletion of personal data by contacting us.
+
+6. Your Rights
+Under applicable laws (e.g., GDPR, Indian IT Rules 2021), you have the right to:
+
+Access your data
+
+Request correction or deletion
+
+Withdraw consent at any time
+
+File a complaint with a data protection authority
+
+To exercise these rights, contact us at: smirkingowlstudio@gmail.com,swachhnet@deepvisionsolution.com
+
+7. Security of Your Data
+We use encryption and secure servers to protect user data. However, no digital transmission is 100% secure. We recommend not sharing sensitive personal information unnecessarily.
+
+8. Cookies and Tracking
+SwachhNet does not use cookies directly, but third-party analytics tools may use similar technologies to track performance and crashes.
+
+9. Children’s Privacy
+SwachhNet is not intended for users under 13. We do not knowingly collect personal information from minors. If informed, we will promptly delete such data.
+
+10. Legal Compliance
+This policy complies with:
+
+Indian IT Act, 2000 & its amendments
+
+GDPR (for EU users)
+
+Google Play Developer Policies
+
+11. Consent
+By using SwachhNet, you consent to this Privacy Policy and our use of your information as described herein.
+
+12. Updates to This Policy
+We may revise this Privacy Policy. Users will be notified via in-app alerts or email. Continued use of the app indicates acceptance of the updated policy.
