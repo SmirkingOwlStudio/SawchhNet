@@ -1,1 +1,79 @@
-Standards against child sexual abuse and exploitation(CSAE)
+Child Sexual Abuse and Exploitation (CSAE) Policy
+
+App Name: Swachh Net
+Company/Developer: Smirking Owl Studio, Deep Vision Solution
+Effective Date: 11-04-2025
+Contact Email: smirkingowlstudio@gmail.com, info@deepvisionsolution.com
+
+
+🔒 1. Our Commitment to Child Safety
+We are committed to ensuring a safe and respectful digital environment for all users, especially children. Our platform maintains a zero-tolerance policy toward Child Sexual Abuse and Exploitation (CSAE) in accordance with Indian law, Google Play Developer Policies, and international child protection standards.
+
+🚫 2. Prohibited Content and Activities
+The following are strictly prohibited on our app:
+
+Creation, transmission, or sharing of Child Sexual Abuse Material (CSAM)
+
+Grooming or predatory behavior toward minors
+
+Sexual communication, exploitation, or harassment of minors
+
+Depictions or suggestions of minors in a sexual or exploitative manner
+
+Violations will result in immediate removal of content, permanent ban of accounts involved, and reporting to law enforcement authorities under applicable laws, including:
+
+The Protection of Children from Sexual Offences (POCSO) Act, 2012
+
+The Information Technology Act, 2000 (Section 67B)
+
+🛠️ 3. Content Moderation and User-Generated Content (UGC)
+If our app enables user-generated content (UGC), we implement:
+
+Automated and manual moderation tools to detect and remove illegal or inappropriate content
+
+Clear community guidelines that prohibit CSAE content or behavior
+
+In-app reporting tools to allow users to report violations
+
+Swift investigation and response to flagged content
+
+📢 4. Reporting CSAE
+If you encounter any content or behavior that violates this policy, please report it immediately by:
+
+Using the in-app "Report" feature, or
+
+Contacting us at smirkingowlstudio@gmail.com, info@deepvisionsolution.com
+
+All reports are treated confidentially and investigated promptly. Where appropriate, we escalate the matter to the Indian Cyber Crime Reporting Portal (https://cybercrime.gov.in/) and relevant authorities.
+
+🧠 5. Staff Training and Responsibility
+Our team, including content moderators and community support staff, are trained to:
+
+Recognize and respond to signs of CSAE
+
+Follow protocols to investigate and escalate abuse cases
+
+Comply with all data protection and mandatory reporting laws
+
+📜 6. Legal Compliance
+We are fully compliant with:
+
+POCSO Act, 2012
+
+IT Act, Section 67B (Prohibition of child pornography online)
+
+Google Play Developer Policy on CSAE
+
+United Nations Convention on the Rights of the Child (UNCRC)
+
+COPPA (if applicable internationally)
+
+We cooperate with law enforcement and cybercrime units in India to report and combat any CSAE-related violations.
+
+
+
+📬 Contact Us
+If you have questions or concerns about this policy, please contact us:
+
+Email: smirkingowlstudio@gmail.com, info@deepvisionsolution.com
+Developer Name: Smirking Owl Studio, Deep Vision Solution
